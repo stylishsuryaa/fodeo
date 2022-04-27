@@ -31,7 +31,7 @@ START_TEXT = (
     "— Add me to your group to get a taste of that lightning fast speed ⚡️\n\n"
     "**Do** /help **to get more information on how to use me or click the \"Help\" button below.**\n\n"
     "> Join our updates channel to stay updated about latest changes made to me and my support chat if you need any further help or wish to report an issue.\n\n"
-    "Updates Channel: **@mafiakings**\n"
+    "Updates Channel: **@mafiakingsfed**\n"
     "Support Chat: **@Friendstamilchatting**"
 )
 
