@@ -1,0 +1,28 @@
+[telegram]
+api_id = "7086582"
+api_hash = "5f87de0805ef1e47680954eb70aa43bd"
+
+[tekegram.bot]
+bot_token = "2081393992:AAGsApcFR0_FX9Y-RGlyct3UIBEn3UnUgjY"
+name = "🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨 𝙓 🇷𝐨𝐛𝐨𝐭"
+username = "Zaynmalik_gc_bot"
+user_id = 2081393992
+
+[database]
+database_url = "mongodb+srv://skkumar:Suryaa737@cluster0.ndepx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+[settings]
+owner = 1921122662
+sudo_users = [1921122662]
+
+[settings.commands]
+prefix = ['!', '/']
+
+[settings.log]
+chat_id = -1001751397792
+
+[settings.backup]
+chat_id = -1001562193266
+
+[api.stella]
+api_key = ""
