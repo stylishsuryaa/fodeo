@@ -27,12 +27,12 @@ from Stella.plugins.rules.rules import rulesRedirect
 # from Stella.plugins.help.help import redirectHelp
 
 START_TEXT = (
-    "Konnichiwa {mention}! I am Stella - the first telegram group management bot to be built in `Pyrogram` with the support of `MongoDB`, this also means I am faster than others in terms of processing and giving outputs. I have a large set of modular features to offer that'll help you manage your chats in an efficient way. \n\n"
+    "Hello {mention}! I am 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨 - the first telegram group management bot to be built in `Pyrogram` with the support of `MongoDB`, this also means I am faster than others in terms of processing and giving outputs. I have a large set of modular features to offer that'll help you manage your chats in an efficient way. \n\n"
     "— Add me to your group to get a taste of that lightning fast speed ⚡️\n\n"
     "**Do** /help **to get more information on how to use me or click the \"Help\" button below.**\n\n"
     "> Join our updates channel to stay updated about latest changes made to me and my support chat if you need any further help or wish to report an issue.\n\n"
-    "Updates Channel: **@StellaUpdates**\n"
-    "Support Chat: **@StellaSupportChat**"
+    "Updates Channel: **@mafiakings**\n"
+    "Support Chat: **@Friendstamilchatting**"
 )
 
 @StellaCli.on_message(custom_filter.command(commands=('start')))
